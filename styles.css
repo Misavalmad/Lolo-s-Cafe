@@ -38,7 +38,14 @@ body {
     font-weight: 600;
     font-size: 20px;
     color: #0D0E10;
-    width: 152px;
+    width: 100px;
+    height: auto;
+}
+
+.logo img {
+    width: 100%;
+    height: auto;
+    display: block;
 }
 
 .nav {
