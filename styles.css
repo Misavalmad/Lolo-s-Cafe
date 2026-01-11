@@ -432,7 +432,7 @@ body {
     }
 }
 
-/* Móviles (hasta 640px) */
+/* Mobile (up to 640px) */
 @media (max-width: 640px) {
     body {
         font-size: 14px;
